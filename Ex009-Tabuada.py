@@ -1,0 +1,22 @@
+x = int(input("Digite um Número para saber sua tabuada: "))
+
+t1 = 1*x
+print('{} * 1 = {}'.format(x, t1))
+t2 = 2*x
+print('{} * 2 = {}'.format(x, t2))
+t3 = 3*x
+print('{} * 3 = {}'.format(x, t3))
+t4 = 4*x
+print('{} * 4 = {}'.format(x, t4))
+t5 = 5*x
+print('{} * 5 = {}'.format(x, t5))
+t6 = 6*x
+print('{} * 6 = {}'.format(x, t6))
+t7 = 7*x
+print('{} * 7 = {}'.format(x, t7))
+t8 = 8*x
+print('{} * 8 = {}'.format(x, t8))
+t9 = 9*x
+print('{} * 9 = {}'.format(x, t9))
+t10 = 10*x
+print('{} * 10 = {}'.format(x, t10))
